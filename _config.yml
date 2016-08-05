@@ -1,4 +1,3 @@
-layout_spectrum: 0.983968932647258
 typography_spectrum: 0.8815772756934166
 color:
   brandStrength: 0.09567710175178945
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.983968932647258
 name: arv43
 title: arv43
+description: 'fitness, nutrition, and things'
